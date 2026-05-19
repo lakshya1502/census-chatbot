@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+
+# Logs
+*.log
+
+# Workspace artifacts
+workspace/artifacts/
+workspace/logs/
+workspace/code/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Environment files
+.env
+.env.*
