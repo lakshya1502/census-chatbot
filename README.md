@@ -35,7 +35,7 @@ This starts:
 Open the Chainlit URL and ask questions such as:
 
 - `What is the literacy rate in Karnataka?`
-- `What about female literacy?`
+- `What about bangalore literacy?`
 - `Summarize the key findings in Karnataka.`
 - `Build a table comparing Karnataka and Odisha literacy.`
 
